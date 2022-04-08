@@ -73,4 +73,11 @@
       </plugins>
     </pluginManagement>
   </build>
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub OWNER Apache Maven Packages</name>
+      <url>https://github.com/HugoAvendano/rooftop-ex2-class4</url>
+    </repository>
+  </distributionManagement>
 </project>
